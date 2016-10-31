@@ -1,0 +1,6 @@
+{
+  "name": "Spiralstairmaker",
+  "tagline": "Creates a set of Spiral Stairs in Maya 2017, uses Python",
+  "body": "# spiralstairmaker\r\nCreates a set of Spiral Stairs in Maya 2017, uses Python\r\n\r\n![spiralstairui](https://cloud.githubusercontent.com/assets/5842203/19871773/c30b02fc-9f8c-11e6-9a81-c40772d2f16e.jpg)\r\n\r\nUses the above UI to obtain the required parameters to create a spiral staircase that looks like the following images:\r\n\r\n![spiralstairs](https://cloud.githubusercontent.com/assets/5842203/19871775/c310c426-9f8c-11e6-8f01-6e31e7c2a83d.jpg)\r\n\r\nA close up of the above for clarity:\r\n\r\n![spiralstaircloseup](https://cloud.githubusercontent.com/assets/5842203/19871774/c30bae50-9f8c-11e6-8f10-4fb76a10cb5f.jpg)\r\n\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
